@@ -21,26 +21,19 @@ This repository contains the completed Jupyter Notebooks/Python scripts, dataset
 
 Objective: Inspect a dataset, identify data-quality issues, perform EDA, and prepare the data for ML workflows.
 
-Dataset Used: [Insert Dataset Name] ([Link to source])
+Dataset Used: Titanic Passenger Survival Dataset: https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
 
 Work Completed: Handled missing values, removed duplicates, encoded categorical features, scaled numerical features, and conducted basic Exploratory Data Analysis.
 
-Key Results: The dataset was successfully cleaned and exported as a prepared CSV ready for model training.
 <br>
 <br>
 ## Activity 2: Simple House Price Prediction (Unit II)
 
 Objective: Build a Linear Regression model to predict continuous numerical values.
 
-Dataset Used: [Insert Dataset Name] ([Link to source])
+Dataset Used: California Housing Dataset: https://lib.stat.cmu.edu/datasets/houses.zip
 
 Work Completed: Selected input/target variables, split data (80:20), trained a Linear Regression model, and visualized actual vs. predicted values.
-
-Key Results:
-
-Model Equation: [Insert equation/coefficients here]
-
-Evaluation Metrics: MAE: [value], MSE: [value], R²: [value].
 
 <br>
 <br>
