@@ -27,6 +27,7 @@ Work Completed: Handled missing values, removed duplicates, encoded categorical 
 
 <br>
 <br>
+
 ## Activity 2: Simple House Price Prediction (Unit II)
 
 Objective: Build a Linear Regression model to predict continuous numerical values.
